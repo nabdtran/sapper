@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://34-87-211-135.ip.mygitpod.com/#https://github.com/sveltejs/sapper)
+
 # sapper
 
 [The next small thing in web development, powered by Svelte.](https://sapper.svelte.dev)
